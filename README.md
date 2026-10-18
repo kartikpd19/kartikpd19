@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20work-C9FE6E?style=for-the-badge" alt="Open to work">
 </p>
 
-## Hey, I'm Kartik 👋
+## Hey, I'm Kartik PD 👋
 
 I design, prototype and build products from the ground up. Product & UX designer, UX engineer and AI-UX researcher with 4+ years across startups, now focused on US health-tech.
 
