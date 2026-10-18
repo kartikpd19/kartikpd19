@@ -48,12 +48,15 @@ I go from research to Figma to shipped code, using Claude and Cursor to close th
 ## 💼 Experience
 
 **Client Projects, Arizona State University** · *2024 to 2026*
+
 Mayo Clinic oncology AI features and the Education Assessment System, working directly with clinicians and educators on real problems.
 
 **Product Designer, Goodgame Nation** · *Aug 2022 to Dec 2023*
+
 Built the company's brand identity and designed product experiences.
 
 **UX Designer, Defacto Technology** · *Nov 2020 to Aug 2022*
+
 Merged 3 fintech product libraries (PocketBits, Zelta, CoinShots) into one design system, improving design consistency by 30%.
 
 ---
